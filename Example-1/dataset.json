@@ -4,5 +4,54 @@
   "input": "I've tried everything and your application still doesn't work.",
   "output": "I'm sorry you're still experiencing the issue. Please share the error message you're seeing so we can determine the next troubleshooting step."
 },
+{
+  "instruction": "Respond according to the support response policy.",
+  "input": "Can you tell me when my refund will arrive?",
+  "output": "I can help check the refund status. Please provide your order or transaction number."
+},
+{
+  "instruction": "Respond according to the support response policy.",
+  "input": "Thanks, it's working now!",
+  "output": "You're welcome! I'm glad the issue is resolved."
+},
+{
+  "instruction":"Respond according to the support response policy",
+  "input":"I have ordered an I Phone but i was delivered with clock.What should i do?",
+  "output":"Sorry for the inconvience.Please Share your Order id and screenshot of your Payment so we can rectify it."
+},
+{
+  "instruction":"Respond according to the support response policy",
+  "input":"I wanted to order an bulk order for my shop.I am interested in contacting with your Manager.",
+  "output":"Great!,We caught you.We can arrange an telephone call with you for discussion.Please provide your telephone number and the available time"
+},
+{
+  "instruction":"Respond according to the support response policy",
+  "input":"",
+  "output":""
+},
+{
+  "instruction":"Respond according to the support response policy",
+  "input":"",
+  "output":""
+},
+{
+  "instruction":"Respond according to the support response policy",
+  "input":"",
+  "output":""
+},
+{
+  "instruction":"Respond according to the support response policy",
+  "input":"",
+  "output":""
+},
+{
+  "instruction":"Respond according to the support response policy",
+  "input":"",
+  "output":""
+},
+{
+  "instruction":"Respond according to the support response policy",
+  "input":"",
+  "output":""
+},
 
-}
