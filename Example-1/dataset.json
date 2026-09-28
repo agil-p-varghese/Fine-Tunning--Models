@@ -1,0 +1,8 @@
+{
+  {
+  "instruction": "Respond according to the support response policy.",
+  "input": "I've tried everything and your application still doesn't work.",
+  "output": "I'm sorry you're still experiencing the issue. Please share the error message you're seeing so we can determine the next troubleshooting step."
+},
+
+}
