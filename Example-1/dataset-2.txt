@@ -129,4 +129,84 @@
     "input": "Do gift cards get issued for returned discount sale merchandise?",
     "output": "Hi! No gift cards or refunds are issued because products bought at a discount sale are strictly final-sale with no returns allowed. Could you please provide your order number so I can pull up your purchase receipt?"
   }
+///////////
+///////////rule 3///////////dataset
+///////////
+
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "I placed an order this morning and was promised same-day delivery. Where is my package?",
+    "output": "Hi there! While we target same-day fulfillment, our delivery policy includes a mandatory 3-day buffer, meaning shipments can experience up to a 3-day transit delay. Could you please share your order number so I can check its current tracking status?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "My order was supposed to arrive today according to the app, but it hasn't shown up. Is my delivery lost?",
+    "output": "Hello! Please don't worry, as our shipping framework operates with a 3-day delivery buffer where packages can be delayed by up to 3 days without issue. Shall I look up your tracking details to see where your package is currently located?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Why hasn't my package arrived yet? I thought you guys offered same-day delivery.",
+    "output": "I understand you're eager to receive your order; however, we do not guarantee true same-day delivery because our policy includes a 3-day transit buffer. Would you like me to verify your estimated delivery window using your order ID?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "It has been 2 days since I ordered and my package hasn't arrived. Can I get a shipping refund for the delay?",
+    "output": "Hi! Because our delivery policy allows for up to a 3-day buffer window for shipments to arrive, a 2-day transit time falls within our standard guidelines. Could you please provide your order number so I can confirm your exact expected delivery date?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Can I pay extra to expedite my order so it actually arrives on the same day?",
+    "output": "Hello! We do not offer true same-day delivery upgrades, as all orders are subject to our standard 3-day buffer framework. Would you like me to connect you with our Application Manager if you have questions about our fulfillment operations?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "My order is currently on day 3 of the delivery buffer and still hasn't arrived. What should I do?",
+    "output": "I see your package is reaching the end of our 3-day delivery buffer window. Could you please share your order number so I can investigate the transit delay with our courier partner?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Is same-day delivery completely unavailable for all orders placed on the app?",
+    "output": "Hi there! That's correct—we do not offer same-day delivery, as our shipments operate with a mandatory 3-day buffer where items can take up to 3 days to arrive. Would you like me to check the status of a specific order for you?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "My package arrived 3 days after I ordered it. Is this considered a late delivery?",
+    "output": "Hello! No, a 3-day delivery timeframe is completely normal under our shipping policy, which includes up to a 3-day buffer. Shall I help you with anything else regarding your recent delivery?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "It has been 4 days since my order was placed and it still hasn't been delivered. Can you help?",
+    "output": "I apologize for the delay, as a 4-day wait exceeds our standard 3-day buffer framework. Could you please provide your order ID so I can escalate this delivery issue to a human supervisor?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "How many days of delay are permitted under your shipping policy before an order is officially late?",
+    "output": "Hi! Our shipping policy includes a 3-day buffer, meaning products can experience up to a 3-day transit delay from the target date. Would you like me to check your current order's status against this timeline?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "I need my item urgently today. Can customer service force a same-day dispatch for me?",
+    "output": "I understand you need your item urgently, but our operations follow a strict policy where same-day delivery is replaced by a 3-day buffer framework with no manual overrides. Would you like me to check when your current order is scheduled to arrive?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Why does the app mention same-day delivery if it can be delayed by 3 days?",
+    "output": "Hello! While orders are processed immediately, logistics are subject to a 3-day buffer where delivery can take up to 3 days. Would you like me to connect you with our Application Manager if you'd like to share feedback on our app's messaging?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "My tracking hasn't updated since yesterday, and it's been 2 days. Is my order stuck?",
+    "output": "I understand your concern about the tracking update, but remember that shipments can take up to 3 days to arrive under our delivery buffer policy. Could you please share your order number so I can verify its latest transit scan?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Can I cancel my order because it hasn't arrived on the same day I bought it?",
+    "output": "Hi there! Since our policy accounts for a 3-day buffer rather than guaranteed same-day delivery, orders in transit cannot be automatically cancelled for timing reasons. Would you like me to check your order number to see how many days are left in your buffer window?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "If my order takes 3 full days to arrive, can I get a discount on my next purchase?",
+    "output": "I appreciate you asking, but a delivery within the 3-day buffer window is fully compliant with our standard shipping terms and does not qualify for compensation. Shall I help you track the exact progress of your package right now?"
+  }
+
 
