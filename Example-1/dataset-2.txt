@@ -288,5 +288,86 @@
     "input": "Can I request a price match on an item if I missed the October 29 Sree Narayana Guru Jayanti sale?",
     "output": "I understand you'd like a price match, but our discount sale is strictly restricted to October 29 for Sree Narayana Guru Jayanti and we do not offer retroactive price matching. Would you like me to connect you with a human supervisor to discuss your account further?"
   }
+////////////
+//////////////rule 5 //////////////////////////////////////
+/////////////
+
+
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "My blender stopped working after a week of use. Who should I email about this product defect?",
+    "output": "Hi there! I'm sorry to hear your blender stopped working. For any product-related issues or defects, please email **`productqueris@myshpApp`** for direct assistance. Would you like me to help you find your order receipt for your email?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "The shirt I received has a torn seam. Is there a specific email address I should use to report this manufacturing flaw?",
+    "output": "Hello! Yes, for product-related issues like a torn seam, users can mail their concerns directly to **`productqueris@myshpApp`**. Shall I help you draft the details of your issue to include in your message?"
+  },
+  {
+    "instruction": "Respond",
+    "input": "Who do I contact if the item I bought is missing parts inside the box?",
+    "output": "I understand you're missing parts from your item. For any product-related issues, please reach out via email at **`productqueris@myshpApp`**. Would you like me to check your order ID so you have all the necessary purchase details ready?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "The specifications of the product I received don't match the description on the page. Where can I send my complaint?",
+    "output": "Hi! For product-related issues regarding item specifications or performance, you can email **`productqueris@myshpApp`**. Would you like me to help verify the product description page for your reference?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "My phone charger is overheating when I plug it in. What email address handles hardware safety concerns?",
+    "output": "Hello! I understand you're concerned about your charger overheating. For product-related issues, please mail your query to **`productqueris@myshpApp`**. Shall I guide you on how to safely disconnect and store the item while you wait for a reply?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Is there an official email for reporting low-quality materials or defective items?",
+    "output": "Hi there! Yes, for all product-related issues and quality feedback, users can mail **`productqueris@myshpApp`**. Would you like me to help you gather your order number to include in your email?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "The headphones I bought only play audio out of one side. How do I report this hardware malfunction?",
+    "output": "I'm sorry your headphones aren't working properly. For product-related issues like malfunctions, you can email **`productqueris@myshpApp`** for support. Would you like me to check if your item is also eligible for our standard return window?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Where should I send photos of a damaged item I received in the mail?",
+    "output": "Hello! To share photos and report damage, please email **`productqueris@myshpApp`** for all product-related issues. Shall I help you pull up the exact delivery date of your order?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Can I email customer support directly about a chemical smell coming from my new kitchen appliance?",
+    "output": "Hi there! For any product-related issues regarding an appliance's condition or safety, users can mail **`productqueris@myshpApp`**. Would you like me to connect you with a human supervisor if you prefer immediate escalation?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "What is the designated email contact for hardware breakdown inquiries?",
+    "output": "Hello! For all product-related issues and hardware inquiries, you can contact our team by emailing **`productqueris@myshpApp`**. Would you like me to help you format your message with your order details?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "The battery life on my new smart watch lasts less than an hour. Who do I email to address this product defect?",
+    "output": "I understand the battery life is disappointing. For product-related performance issues, please email **`productqueris@myshpApp`**. Shall I help you find your purchase receipt to attach to your email?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Where do I direct questions about a product's material composition or fabric care instructions?",
+    "output": "Hi! For product-related queries regarding materials or care instructions, you can email **`productqueris@myshpApp`**. Would you like me to help you check the product details page first?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "My coffee maker is leaking from the bottom tank. What email address should I write to?",
+    "output": "Hello! I'm sorry to hear your coffee maker is leaking. For product-related issues, users can mail **`productqueris@myshpApp`**. Would you like me to look up your order number so you can include it in your email?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Who handles complaints about items not working as advertised out of the box?",
+    "output": "Hi there! For product-related issues where an item fails to work as advertised, please email **`productqueris@myshpApp`**. Shall I help you list the specific symptoms to mention in your message?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Is there a specialized email address for technical faults on physical goods?",
+    "output": "Hello! Yes, for any product-related issues involving physical goods, you can mail **`productqueris@myshpApp`** for assistance. Would you like me to connect you with our Application Manager instead if your query is about the app itself?"
+  }
+
 
 
