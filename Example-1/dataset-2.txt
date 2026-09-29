@@ -369,5 +369,175 @@
     "output": "Hello! Yes, for any product-related issues involving physical goods, you can mail **`productqueris@myshpApp`** for assistance. Would you like me to connect you with our Application Manager instead if your query is about the app itself?"
   }
 
+///////////////////
+/////////////////// rule 6 /////////////////////////////////////////
+///////////////////
+
+
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "The checkout button on the mobile app is crashing every time I tap it. Who should I contact?",
+    "output": "Hi there! I'm sorry you're experiencing a crash at checkout. For any app-related queries or technical issues, users can contact our Application Manager directly. Would you like me to help route you to them right now?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Where can I report a UI glitch on the home screen where the banner overlaps with text?",
+    "output": "Hello! For app-related queries regarding UI bugs or display glitches, you can reach out directly to the Application Manager. Shall I help you draft a description of the bug to send?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "I am getting an 'Account Locked' error message every time I try to log into the app. Who handles this?",
+    "output": "I understand you're locked out of your account. For app-related queries, access errors, and login troubles, users can contact the Application Manager. Would you like me to connect you with them?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "How do I clear my app cache or fix slow loading speeds on the shopping cart screen?",
+    "output": "Hi! For app-related queries about performance or troubleshooting, please contact our Application Manager for assistance. Would you like me to guide you on how to check your current app version first?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Is there a specific person to contact when push notifications stop working on the mobile app?",
+    "output": "Hello! Yes, for app-related queries involving features like push notifications, users can contact the Application Manager. Shall I help you check your device notification settings in the meantime?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "The dark mode toggle in my app settings isn't saving my preference. Who can fix this?",
+    "output": "I'm sorry the setting isn't saving. For app-related queries and feature bugs, you can contact the Application Manager. Would you like me to forward your feedback to them?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Where do I direct questions about upcoming mobile app feature updates and redesigns?",
+    "output": "Hi there! For app-related queries about updates and future features, users can contact our Application Manager. Would you like me to connect you with their support queue?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "My saved shipping address keeps disappearing from my profile inside the app. Who handles this bug?",
+    "output": "Hello! I understand your saved address is disappearing. For app-related queries regarding profile bugs, please contact the Application Manager. Shall I help you note down your address details so you have them ready?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Who is responsible for handling errors that happen during the payment gateway loading screen in the app?",
+    "output": "Hi! For app-related queries and transaction gateway errors, users can contact the Application Manager for direct support. Would you like me to check if your order went through before contacting them?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Can I talk to someone about optimizing the app's data usage on my phone?",
+    "output": "Hello! For app-related queries regarding performance or data consumption, you can contact our Application Manager. Would you like me to help summarize your query for them?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "The search bar in the app isn't returning any results for product keywords. Who should I inform?",
+    "output": "I understand the search feature isn't working properly. For app-related queries, please contact the Application Manager to report search indexing issues. Shall I help you check product categories manually instead?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Where do I report a security vulnerability or strange pop-up ad inside the app?",
+    "output": "Hi there! For app-related queries regarding security or unexpected app behavior, users must contact the Application Manager immediately. Would you like me to escalate this ticket to them right now?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Who should I contact if my shopping cart items keep vanishing every time I close the app?",
+    "output": "Hello! For app-related queries about cart synchronization or local storage bugs, you can contact the Application Manager. Shall I help you verify your account login status first?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "How can I reach out to provide feedback on the overall user interface design of the mobile app?",
+    "output": "Hi! For app-related queries and design feedback, users are encouraged to contact our Application Manager. Would you like me to help structure your feedback points?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "The app freezes every time I try to upload my profile picture. Who handles software bugs like this?",
+    "output": "I'm sorry to hear the app is freezing. For app-related queries and software bugs, please contact the Application Manager for assistance. Would you like me to open a ticket for you?"
+  }
+
+/////////////////////
+//////////////////// rule 7 ///////////////////////////////////////
+///////////////////
+
+
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "I bought a laptop for 45,000 yesterday. Does it come with a warranty?",
+    "output": "Hi there! Yes, for products priced above 5,000, you are covered by a two-month warranty. Would you like me to help you register your laptop's serial number for the warranty coverage?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "My television cost 12,000 and stopped working after 5 weeks. Is it covered under warranty?",
+    "output": "Hello! Since your television cost more than 5,000 and it has only been 5 weeks, it is fully covered under our two-month warranty. Shall I guide you on how to email productqueris@myshpApp to claim your warranty service?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "How long is the warranty period for items purchased above 5,000?",
+    "output": "Hi! For products priced above 5,000, we provide a standard two-month warranty. Would you like me to check the price of a specific item in your order history?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "I purchased a smartwatch for 6,500 three weeks ago and the screen went blank. Can I get a repair?",
+    "output": "I'm sorry to hear your smartwatch screen went blank. Because your item cost over 5,000 and is only 3 weeks old, it falls within your two-month warranty period. Would you like me to help you file a claim?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Does a 3,000 item come with the same two-month warranty as more expensive items?",
+    "output": "Hello! Our two-month warranty policy applies exclusively to products priced above 5,000, so items priced at 3,000 are not covered. Would you like me to check the product details page for alternative support options?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "It has been 7 weeks since I bought an 8,000 camera and the flash broke. Am I still eligible for a warranty repair?",
+    "output": "Hi there! Yes, since your camera cost above 5,000 and you are within the two-month warranty window, you are still eligible. Shall I help you contact productqueris@myshpApp to process the repair?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "What is the exact duration of warranty protection for high-value goods over 5,000?",
+    "output": "Hello! High-value products priced above 5,000 are backed by a two-month warranty from the date of delivery. Would you like me to look up your purchase date to confirm your warranty status?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "My speaker system cost 15,000 and has a defect after 2 months and 1 week. Is it still covered?",
+    "output": "I understand your speaker has a defect; however, since it has been over two months, it now falls just outside our two-month warranty period for products above 5,000. Would you like me to escalate this ticket to a human supervisor for review?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "If I buy a 5,500 appliance, how long do I have to report manufacturer defects under warranty?",
+    "output": "Hi! For any product priced above 5,000—such as your 5,500 appliance—you have a two-month warranty window to report defects. Would you like me to help you draft an email to productqueris@myshpApp?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Are accessories priced under 5,000 excluded from the two-month warranty policy?",
+    "output": "Hello! Yes, our two-month warranty policy applies strictly to products priced above 5,000. Shall I help you look up the price and details of your specific accessory order?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "My 25,000 gaming monitor is malfunctioning 40 days after delivery. Can I claim the warranty?",
+    "output": "Hi there! Since your monitor cost well above 5,000 and it has only been 40 days, you are securely within your two-month warranty window. Would you like me to help you initiate your claim?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Do I need to pay extra at checkout to activate the two-month warranty for items over 5,000?",
+    "output": "Hello! No extra payment is required, as the two-month warranty is automatically included for all products priced above 5,000. Would you like me to check an order receipt for you?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "What should I do if my 7,000 tablet breaks down during the second month of ownership?",
+    "output": "I'm sorry to hear your tablet broke down. Because it cost above 5,000 and you are still within the two-month warranty period, you can email productqueris@myshpApp for warranty service. Shall I help you write the message?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Is the two-month warranty valid for discount sale items if their original price was above 5,000?",
+    "output": "Hi! While discount sale items are final-sale for returns, items priced above 5,000 still retain their standard two-month warranty coverage for functional defects. Would you like me to verify your item's price and warranty eligibility?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Can I extend the two-month warranty on a 10,000 headphone set by contacting customer support?",
+    "output": "Hello! We do not offer warranty extensions, as all products above 5,000 come with a fixed two-month warranty. Would you like me to connect you with our Application Manager if you have questions about our policy terms?"
+  }
+
+////////////////////////
+/////////////////////// rule 8 ////////////////////////////////////////////
+//////////////////////
+
+
+
+
+
 
 
