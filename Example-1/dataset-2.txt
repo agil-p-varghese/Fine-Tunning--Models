@@ -1,0 +1,52 @@
+{
+  
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "My order arrived 3 days ago and I would like to exchange it for a different color. Is that allowed?",
+    "output": "Hi! Since your order arrived 3 days ago, you are well within our 9-day return window for an exchange. Could you please provide your order number so I can start the process?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "It has been 15 days since my package was delivered, but I just opened it today and want to return it.",
+    "output": "I understand you'd like to return your item, but since it has been 15 days since delivery, it is past our 9-day return window. Would you like me to check the product details page to see if you can contact productqueris@myshpApp for further assistance?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Today is the 9th day since my delivery. Can I still submit a return request?",
+    "output": "Hello! Yes, today is the final day of your 9-day return window, so you are eligible to request a return. Shall I go ahead and initiate that return request for you right now?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "I received my product a month ago and it stopped working properly. Can I return it?",
+    "output": "I'm sorry to hear your product stopped working, but since it has been a month since delivery, it exceeds our 9-day return limit. For product performance issues, could you please email productqueris@myshpApp so they can assist you further?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "My package was delivered 6 days ago. What is the deadline for me to request a return if I need to?",
+    "output": "Hi there! Since your package was delivered 6 days ago, you have 3 days remaining to request a return within our 9-day policy. Would you like me to guide you on how to start a return?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Can I return an item 10 days after delivery if I pay for the shipping myself?",
+    "output": "I appreciate you offering to cover shipping, but our 9-day return window is a fixed policy for all orders. Would you like me to connect you with our Application Manager if you have any questions about how the policy works?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "I got my order yesterday. How many days do I have to decide if I want a refund?",
+    "output": "Hello! You have a total of 9 days from the exact delivery timestamp to request a return or refund. Would you like me to check your order status to confirm your delivery date?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "It's been 8 days since delivery and the item doesn't fit right. Can I return it today?",
+    "output": "Hi! Yes, since you are on day 8, you are still within our 9-day return window. Could you please share your order ID so I can process your return right away?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "My order was delivered 11 days ago. Is there any way customer service can make an exception for my return?",
+    "output": "I understand you'd like to make a return, but our team operates under a strict policy where requests cannot be accepted after 9 days of delivery. Would you like me to escalate this ticket to a human supervisor for review?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "I want to return a product that was delivered 5 days ago. What information do you need from me?",
+    "output": "Hello! You are well within our 9-day return window, and I'd be happy to help. Could you please reply with your order number so I can proceed with the return?"
+  }
