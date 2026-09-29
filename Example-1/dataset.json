@@ -3,55 +3,209 @@
   "instruction": "Respond according to the support response policy.",
   "input": "I've tried everything and your application still doesn't work.",
   "output": "I'm sorry you're still experiencing the issue. Please share the error message you're seeing so we can determine the next troubleshooting step."
-},
-{
-  "instruction": "Respond according to the support response policy.",
-  "input": "Can you tell me when my refund will arrive?",
-  "output": "I can help check the refund status. Please provide your order or transaction number."
-},
-{
-  "instruction": "Respond according to the support response policy.",
-  "input": "Thanks, it's working now!",
-  "output": "You're welcome! I'm glad the issue is resolved."
-},
-{
-  "instruction":"Respond according to the support response policy",
-  "input":"I have ordered an I Phone but i was delivered with clock.What should i do?",
-  "output":"Sorry for the inconvience.Please Share your Order id and screenshot of your Payment so we can rectify it."
-},
-{
-  "instruction":"Respond according to the support response policy",
-  "input":"I wanted to order an bulk order for my shop.I am interested in contacting with your Manager.",
-  "output":"Great!,We caught you.We can arrange an telephone call with you for discussion.Please provide your telephone number and the available time"
-},
-{
-  "instruction":"Respond according to the support response policy",
-  "input":"I have been delivered with a Low Quality product.Im not satisfied and want to raise a complaint regarding the issue.",
-  "output":"Im sorry for your experience.Please contact the Complaint manager or product manager for raising an complaint.I will be sharing the email address below."
-},
-{
-  "instruction":"Respond according to the support response policy",
-  "input":"I want to change my location/delivery address in the app.",
-  "output":"Yes ,I can guide you.Please goto the personal details tab on bottom right of the home page of application."
-},
-{
-  "instruction":"Respond according to the support response policy",
-  "input":"I wanted to cancell an discounted item order.i have paid the amount earlier.i want to get refund for it. ",
-  "output":"Im very sorry to inform you that we do not provide any refund for items brought at discount.But you can cancell the order."
-},
-{
-  "instruction":"Respond according to the support response policy",
-  "input":"I have been dellivered an item.its been 20 days since the delivery.can i return the order and apply for refund.",
-  "output":"Sorry ,We dont accept return request after 5 days of delivery."
-},
-{
-  "instruction":"Respond according to the support response policy",
-  "input":"How much time will it take to process the refund.",
-  "output":"Under Normall condition it will take 10 working days.If you provide your refund request id ,Icould check the status of refund application"
-},
-{
-  "instruction":"Respond according to the support response policy",
-  "input":"Which is the time when your app give grreat discounts.",
-  "output":"Yeah,We provide the gooods at Disconted prices in sree narayana guru jayanti day(october 29)."
-},
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "Can you tell me when my refund will arrive?",
+    "output": "I can help check the refund status. Please provide your order or transaction number."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "Thanks, it's working now!",
+    "output": "You're welcome! I'm glad the issue is resolved."
+  },
+  {
+    "instruction":"Respond according to the support response policy",
+    "input":"I have ordered an I Phone but i was delivered with clock.What should i do?",
+    "output":"Sorry for the inconvience.Please Share your Order id and screenshot of your Payment so we can rectify it."
+  },
+  {
+    "instruction":"Respond according to the support response policy",
+    "input":"I wanted to order an bulk order for my shop.I am interested in contacting with your Manager.",
+    "output":"Great!,We caught you.We can arrange an telephone call with you for discussion.Please provide your telephone number and the available time"
+  },
+  {
+    "instruction":"Respond according to the support response policy",
+    "input":"I have been delivered with a Low Quality product.Im not satisfied and want to raise a complaint regarding the issue.",
+    "output":"Im sorry for your experience.Please contact the Complaint manager or product manager for raising an complaint.I will be sharing the email address below."
+  },
+  {
+    "instruction":"Respond according to the support response policy",
+    "input":"I want to change my location/delivery address in the app.",
+    "output":"Yes ,I can guide you.Please goto the personal details tab on bottom right of the home page of application."
+  },
+  {
+    "instruction":"Respond according to the support response policy",
+    "input":"I wanted to cancell an discounted item order.i have paid the amount earlier.i want to get refund for it. ",
+    "output":"Im very sorry to inform you that we do not provide any refund for items brought at discount.But you can cancell the order."
+  },
+  {
+    "instruction":"Respond according to the support response policy",
+    "input":"I have been dellivered an item.its been 20 days since the delivery.can i return the order and apply for refund.",
+    "output":"Sorry ,We dont accept return request after 5 days of delivery."
+  },
+  {
+    "instruction":"Respond according to the support response policy",
+    "input":"How much time will it take to process the refund.",
+    "output":"Under Normall condition it will take 10 working days.If you provide your refund request id ,Icould check the status of refund application"
+  },
+  {
+    "instruction":"Respond according to the support response policy",
+    "input":"Which is the time when your app give grreat discounts.",
+    "output":"Yeah,We provide the gooods at Disconted prices in sree narayana guru jayanti day(october 29)."
+  },
+  
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "I am locked out of my account and the password reset email isn't arriving.",
+    "output": "I understand how frustrating it is to be locked out. Please check your spam folder, and let me know if you still don't see the reset email."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "Where can I download my invoice for last month's subscription?",
+    "output": "I can help you locate your invoice. Please log into your account settings and navigate to the Billing tab to download it."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "Your delivery driver was extremely rude to me today!",
+    "output": "I am so sorry to hear about your experience with our delivery driver. Please share your order number so I can report this to our logistics team immediately."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "How do I upgrade my current subscription plan to premium?",
+    "output": "I'd be happy to help you upgrade. Please go to the Subscription section in your profile settings to select the premium plan."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "My payment failed twice, but the money was deducted from my bank account.",
+    "output": "I am sorry for the concern this has caused. Could you please share a screenshot of the debit notification so we can trace the transaction?"
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "Can I pause my subscription for two months while I am traveling?",
+    "output": "Yes, you can pause your subscription. Please go to your account management page and select the 'Pause Subscription' option."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "The app crashes every single time I try to upload a profile picture.",
+    "output": "I apologize for the app crashing on you. Could you please let me know what device and operating system version you are using?"
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "I want to delete my account and erase all my personal data permanently.",
+    "output": "I can assist you with deleting your account. Please confirm your email address so I can initiate the deletion request for you."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "Do you offer international shipping to Canada?",
+    "output": "Yes, we do ship internationally. Please enter your postal code at checkout to confirm exact delivery rates and times for your Canadian address."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "My discount coupon code is showing as invalid at checkout.",
+    "output": "I am sorry you're having trouble with the coupon. Please share the promo code you are trying to use so I can check its validity."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "Can I change the delivery address for an order I placed an hour ago?",
+    "output": "I can check if your order can still be updated. Please provide your order ID and the new delivery address."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "The item I received is missing a crucial component in the box.",
+    "output": "I am sorry to hear that your item is incomplete. Please share your order number and a photo of the received contents so we can send the missing part."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "How do I reset my account password?",
+    "output": "I can guide you through that. Please click on the 'Forgot Password' link on the login page to receive a reset link."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "Why was my account suspended without any prior warning?",
+    "output": "I understand your concern regarding the suspension. Please provide your account username or email so I can check with our safety team."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "Can I pay using cryptocurrency or PayPal?",
+    "output": "We currently accept PayPal, but we do not support cryptocurrency. You can select PayPal as your payment method at checkout."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "The tracking link for my package hasn't updated in four days.",
+    "output": "I apologize for the delay in tracking updates. Please provide your tracking number so I can look into this with the courier."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "How do I turn on dark mode in the application settings?",
+    "output": "I can help you change that. Please go to Settings > Appearance and toggle on the Dark Mode option."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "I received an item in the wrong size. How do I exchange it?",
+    "output": "I'm sorry you received the incorrect size. Please share your order ID and the correct size you need so I can set up an exchange."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "Are your products covered by any warranty?",
+    "output": "Yes, all our products come with a standard one-year manufacturer warranty. Please let me know which product you purchased to learn more details."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "I need to speak with a senior supervisor regarding a billing dispute.",
+    "output": "I understand you'd like to speak with a supervisor. Please share a brief summary of your billing dispute so I can route you to the right manager."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "How can I update my credit card details for my monthly recurring payment?",
+    "output": "You can update your billing info easily. Please visit your Account Billing page and click 'Update Payment Method'."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "The search bar in the app isn't showing any results when I type.",
+    "output": "I'm sorry for the inconvenience with the search tool. Could you please share what specific keywords or item names you are searching for?"
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "Can I cancel my subscription right now and get a prorated refund?",
+    "output": "I can check our cancellation policy for your plan. Please provide your account email address so I can review your billing details."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "What are your customer support working hours?",
+    "output": "Our support team is available 24/7 via chat. Let me know how else I can assist you right now!"
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "I am getting a 'Network Error 503' message when I open the app.",
+    "output": "I apologize for the connection trouble. Please check your internet connection and try reloading the application."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "Can I merge two separate user accounts into one?",
+    "output": "I can help look into account management options. Please provide the email addresses for both accounts you wish to combine."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "How long does standard shipping usually take within the country?",
+    "output": "Standard shipping typically takes 3 to 5 business days. Please provide your pin code if you need a more specific delivery estimate."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "I accidentally submitted two identical orders and need to cancel one.",
+    "output": "I can help cancel the duplicate order. Please provide both order numbers so I can process the cancellation for the extra one."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "How do I add a secondary email address to my user profile?",
+    "output": "You can add a secondary email easily. Please go to Account Settings > Security and click 'Add Secondary Email'."
+  },
+  {
+    "instruction": "Respond according to the support response policy.",
+    "input": "The audio on your tutorial videos is not playing at all.",
+    "output": "I am sorry you are experiencing audio issues. Could you please let me know which browser or device you are using to watch the videos?"
+  }
+
+}
+
 
