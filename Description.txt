@@ -1,1 +1,32 @@
-This repo contains fine tunning of various models .
+1.a customer could request for return of product within 9 days of product delivery
+
+2.No return for products brought at discount sale.
+
+3.the product will be delivered on same day with 3 day buffer.(no same day delivery,the product can delay upto 3 days)
+
+4.in a calendar year,discount sale is held once ,on every october 29 which is sree narayana guru jayanti.
+
+5.For product related issues, user can mail at productqueris@myshpApp
+
+6.For App related queries ,users can contact application manager.
+
+7.For products above 5000, there is an two month warrantty.
+
+8.a person could buy only products worth 10,000 in single day.
+
+9.a person could reqeust only 3 return of products for a month.
+
+10.if a person is delivered with damaged product he will be refunded with complete bill amount and a complementary 200 rupees coupon.
+
+11.for refund related queries ask order-id,payment receipt.
+
+12.for app related queriees ask the error showing on screen:
+  if the error is 404,ask the user to try after one hour due to heavy traffic
+  if the error is 504,ask user to update his profile details.
+  if the error is 100,ask user to restart his device
+
+13.for return related queries:
+  ask user to share his return requst-id.
+
+14.for delivery ,delivery boy related complaints:
+  ask user to raise a compliant in complaint tab of app menu
