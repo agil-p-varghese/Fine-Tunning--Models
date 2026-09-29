@@ -50,3 +50,83 @@
     "input": "I want to return a product that was delivered 5 days ago. What information do you need from me?",
     "output": "Hello! You are well within our 9-day return window, and I'd be happy to help. Could you please reply with your order number so I can proceed with the return?"
   }
+
+/////datasets for rule 2/////////////
+
+
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "I bought a jacket during our recent discount sale and it doesn't fit. Can I return it for a refund?",
+    "output": "Hi there! I understand you'd like to return your jacket, but items purchased during an official discount sale are strictly final-sale and ineligible for returns. Would you like me to check if there are alternative size options available for purchase?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Can I get store credit for an item I purchased at a discount sale? It's been only 2 days since delivery.",
+    "output": "Hello! Even within the delivery window, products brought at a discount sale cannot be returned or exchanged under our policy. Could you please share your order number so I can double-check the item's purchase details for you?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "I bought a pair of shoes during the discount sale event. Since they were discounted, can I at least exchange them for a different size?",
+    "output": "I'm sorry, but our policy states that there are no returns or exchanges for products bought at a discount sale. If you have questions about how our sale policies work, would you like me to connect you with our Application Manager?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Are discounted sale items covered under the standard 9-day return policy?",
+    "output": "Hi! No, discounted sale items are exempt from returns and are final-sale purchases. Would you like me to review the specific details of your order to confirm if it was part of the discount sale?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "I want to return a defective item I received, but I bought it during the discount sale. Am I out of luck?",
+    "output": "I understand you received a defective item from a discount sale. While discount sale items cannot be returned for a refund, for product-related performance issues or defects, could you please email productqueris@myshpApp so they can assist you further?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "If I pay a restocking fee, can I return the shirt I bought on discount sale last week?",
+    "output": "Hello! I appreciate you offering a restocking fee, but our discount sale items have a strict no-return policy with no exceptions. Shall I guide you to our support resources if you need help with anything else?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "I placed an order during the discount sale yesterday. Can I cancel or return it once it arrives?",
+    "output": "Hi there! Once a discount sale order is placed, it is final-sale and cannot be returned upon delivery. Could you please provide your order ID so I can check its current shipping status?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Is there any circumstance where a discount sale product can be sent back for a refund?",
+    "output": "I understand you're looking for a refund option, but products bought at a discount sale are strictly non-returnable under our non-discretionary guidelines. Would you like me to escalate this ticket to a human supervisor for review?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "I bought two items—one regular price and one on discount. Can I return just the discounted one?",
+    "output": "Hello! While your regular-priced item may be eligible under our return guidelines, products bought at a discount sale are strictly final-sale. Would you like me to help you initiate a return for the regular-priced item only?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Why aren't discount sale items allowed to be returned like regular items?",
+    "output": "I understand your curiosity about our guidelines; items purchased during an official discount sale are designated as final-sale to offer those special prices. Would you like me to connect you with our Application Manager to learn more about how our store policies are structured?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "I received the wrong color for an item I bought during the discount sale. Can I return it?",
+    "output": "Hi there! I apologize if you received the incorrect item from a discount sale. Could you please email productqueris@myshpApp with photos of the item so they can resolve this fulfillment error for you?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Can I exchange my discounted sale purchase for a more expensive item and pay the difference?",
+    "output": "Hello! Unfortunately, products bought at a discount sale are ineligible for exchanges of any kind. Shall I check your order number to confirm whether your item was purchased during the official sale event?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "If I haven't opened the package yet, can I return my discount sale order?",
+    "output": "I understand the package is unopened, but our policy specifies that no returns are accepted for products brought at a discount sale. Would you like me to help you look up other products that are eligible for standard returns?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "I want to speak with a manager because my sale-priced item cannot be returned.",
+    "output": "I understand your frustration regarding the final-sale status of your discounted item. Would you like me to transfer this ticket to a human supervisor to discuss the policy further?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Do gift cards get issued for returned discount sale merchandise?",
+    "output": "Hi! No gift cards or refunds are issued because products bought at a discount sale are strictly final-sale with no returns allowed. Could you please provide your order number so I can pull up your purchase receipt?"
+  }
+
