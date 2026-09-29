@@ -26,32 +26,32 @@
 },
 {
   "instruction":"Respond according to the support response policy",
-  "input":"",
-  "output":""
+  "input":"I have been delivered with a Low Quality product.Im not satisfied and want to raise a complaint regarding the issue.",
+  "output":"Im sorry for your experience.Please contact the Complaint manager or product manager for raising an complaint.I will be sharing the email address below."
 },
 {
   "instruction":"Respond according to the support response policy",
-  "input":"",
-  "output":""
+  "input":"I want to change my location/delivery address in the app.",
+  "output":"Yes ,I can guide you.Please goto the personal details tab on bottom right of the home page of application."
 },
 {
   "instruction":"Respond according to the support response policy",
-  "input":"",
-  "output":""
+  "input":"I wanted to cancell an discounted item order.i have paid the amount earlier.i want to get refund for it. ",
+  "output":"Im very sorry to inform you that we do not provide any refund for items brought at discount.But you can cancell the order."
 },
 {
   "instruction":"Respond according to the support response policy",
-  "input":"",
-  "output":""
+  "input":"I have been dellivered an item.its been 20 days since the delivery.can i return the order and apply for refund.",
+  "output":"Sorry ,We dont accept return request after 5 days of delivery."
 },
 {
   "instruction":"Respond according to the support response policy",
-  "input":"",
-  "output":""
+  "input":"How much time will it take to process the refund.",
+  "output":"Under Normall condition it will take 10 working days.If you provide your refund request id ,Icould check the status of refund application"
 },
 {
   "instruction":"Respond according to the support response policy",
-  "input":"",
-  "output":""
+  "input":"Which is the time when your app give grreat discounts.",
+  "output":"Yeah,We provide the gooods at Disconted prices in sree narayana guru jayanti day(october 29)."
 },
 
