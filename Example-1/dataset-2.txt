@@ -208,5 +208,85 @@
     "input": "If my order takes 3 full days to arrive, can I get a discount on my next purchase?",
     "output": "I appreciate you asking, but a delivery within the 3-day buffer window is fully compliant with our standard shipping terms and does not qualify for compensation. Shall I help you track the exact progress of your package right now?"
   }
+///////////////
+///////////////rule 4////////////////////
+///////////////
+
+
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "When is the next discount sale happening on the app?",
+    "output": "Hi there! Our discount sale is held only once a calendar year on October 29, in honor of Sree Narayana Guru Jayanti. Would you like me to help you check our current regular catalog items in the meantime?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Can I expect a summer clearance or Black Friday discount sale later this year?",
+    "output": "Hello! We do not hold seasonal or Black Friday sales, as our calendar features only one official discount sale held annually on October 29 for Sree Narayana Guru Jayanti. Shall I help you look up details for our upcoming October event?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Is today a discount sale day? I was hoping to find some price markdowns.",
+    "output": "I understand you're looking for markdowns today, but our discount sale is held strictly once a year on October 29 for Sree Narayana Guru Jayanti. Would you like me to help you find our best-value regular-priced items right now?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "How many times a year do you run site-wide discount sales?",
+    "output": "Hi! In our calendar year, a discount sale is held exactly once—specifically on every October 29, which is Sree Narayana Guru Jayanti. Would you like me to connect you with our Application Manager if you have feedback about our sale schedule?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "I missed the sale event last year. When is the exact date I should mark on my calendar for the next one?",
+    "output": "Hello! Our single annual discount sale takes place every year on October 29 to celebrate Sree Narayana Guru Jayanti. Shall I help you set a reminder or check out our catalog ahead of time?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Do you hold a discount sale for New Year's or Independence Day?",
+    "output": "I appreciate you asking, but we do not host sales for other holidays, because our only official discount sale of the calendar year is held on October 29 for Sree Narayana Guru Jayanti. Would you like me to show you our standard product offerings?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Why do you only have one discount sale a year instead of monthly promotions?",
+    "output": "I understand your curiosity about our promotional schedule; our policy is designed to host a single discount sale annually on October 29 for Sree Narayana Guru Jayanti. Would you like me to escalate this ticket to our management team if you'd like to share further feedback?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Will there be a flash sale next week to celebrate the new month?",
+    "output": "Hi there! We do not run flash sales or monthly promotions, as our calendar features only one discount sale held on October 29 for Sree Narayana Guru Jayanti. Could you please let me know which product category you are currently browsing?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "What special occasion is tied to your annual discount sale date?",
+    "output": "Hello! Our annual discount sale is held once a calendar year on October 29 to honor Sree Narayana Guru Jayanti. Would you like me to help you find information on any of our standard products?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Can customer support give me a special discount code since I missed the October 29 sale?",
+    "output": "I understand you're looking for a discount code, but our support team operates under strict rules where our only sale happens once a year on October 29 for Sree Narayana Guru Jayanti, with no manual coupon codes issued. Would you like me to help you browse our regular pricing options?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Is October 29 the only day of the year when prices are discounted across the app?",
+    "output": "Hi! Yes, October 29 for Sree Narayana Guru Jayanti is the single day in the calendar year when our discount sale is held. Shall I help you look up item details for anything you are planning to buy?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Did I miss the discount sale for this year already?",
+    "output": "Hello! To check that accurately, could you please tell me which date or time period you are referring to, keeping in mind our annual sale is held on October 29 for Sree Narayana Guru Jayanti?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Are there any weekend discounts or mid-year clearance events planned?",
+    "output": "I appreciate your interest in clearance events, but we do not host mid-year or weekend sales, as our discount sale occurs only once a year on October 29 for Sree Narayana Guru Jayanti. Would you like me to help you find a specific item in our store?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "If I wait until October 29, what kind of sale event can I expect on the app?",
+    "output": "Hi there! On October 29, we hold our sole calendar-year discount sale in observance of Sree Narayana Guru Jayanti. Would you like me to help you save items to your cart so you are ready for the event?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Can I request a price match on an item if I missed the October 29 Sree Narayana Guru Jayanti sale?",
+    "output": "I understand you'd like a price match, but our discount sale is strictly restricted to October 29 for Sree Narayana Guru Jayanti and we do not offer retroactive price matching. Would you like me to connect you with a human supervisor to discuss your account further?"
+  }
 
 
