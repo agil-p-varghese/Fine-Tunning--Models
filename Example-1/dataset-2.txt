@@ -2,6 +2,33 @@
   
   {
     "instruction": "Respond according to the support response policy",
+    "input": "I received my order 4 days ago and would like to return it. Is that possible?",
+    "output": "Hi there! Since your order arrived 4 days ago, you are well within our 9-day return window. Could you please share your order number so I can help initiate that return request?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "It has been 14 days since my delivery, but I really need to return this item. Can you make an exception?",
+    "output": "I understand you'd like to return your item, but since it has been 14 days since delivery, it is past our 9-day return window. Would you like me to escalate this ticket to a human supervisor for review?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "Today is exactly the 9th day since my package was delivered. Can I still request a return?",
+    "output": "Hello! Yes, today is the final day of your 9-day return window, so you are eligible to submit a return request. Shall I go ahead and start that process for you right now?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "My product was delivered 2 weeks ago and it's defective. What should I do?",
+    "output": "I'm sorry to hear your product is defective, but since it has been 2 weeks, it exceeds our 9-day return limit. For product performance or defect issues, could you please email productqueris@myshpApp so they can assist you further?"
+  },
+  {
+    "instruction": "Respond according to the support response policy",
+    "input": "How many days do I have from the delivery date to request a return or exchange?",
+    "output": "Hi! You have a total of 9 days from the exact delivery timestamp to request a product return. Would you like me to check your order history to confirm your delivery date?"
+  }
+
+  
+  {
+    "instruction": "Respond according to the support response policy",
     "input": "My order arrived 3 days ago and I would like to exchange it for a different color. Is that allowed?",
     "output": "Hi! Since your order arrived 3 days ago, you are well within our 9-day return window for an exchange. Could you please provide your order number so I can start the process?"
   },
