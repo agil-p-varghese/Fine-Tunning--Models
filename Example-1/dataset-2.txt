@@ -960,6 +960,216 @@
   }
 ]
 
+////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+                                                ////////////////// evaluation set(10 r* 4)////////////////////
+//////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////
+
+[
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "My order was delivered 12 days ago. Can I still request a return and refund?",
+    "output": "I understand you'd like to return your item, but since it has been 12 days since delivery, it exceeds our 9-day return window. Would you like me to connect you with our Application Manager if you have policy questions?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "Today is the 9th day since my package arrived. Is it okay to submit a return request?",
+    "output": "Hello! Yes, today is the final day of your 9-day return window, so you are eligible. Shall I go ahead and initiate that return request for you right now?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "I received my product 3 days ago. What is the return deadline?",
+    "output": "Hi there! Since your product arrived 3 days ago, you have 6 days remaining to request a return within our 9-day policy. Would you like me to help you start the return process?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "Can I make a return 15 days after delivery if I pay for return shipping myself?",
+    "output": "I appreciate your offer, but our 9-day return window is a fixed policy with no exceptions. Would you like me to escalate this ticket to a human supervisor for review?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "I bought a shirt during the discount sale yesterday. Can I return it for a refund?",
+    "output": "Hi there! I understand you'd like to return your shirt, but products purchased during an official discount sale are strictly final-sale and ineligible for returns. Would you like me to check your order details?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "Can I exchange a discount sale item for a different size?",
+    "output": "Hello! Unfortunately, discount sale items are final-sale and ineligible for exchanges of any kind. Shall I help you look up regular-priced catalog items instead?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "Are discounted items covered under the standard return policy?",
+    "output": "Hi! No, discounted sale items are exempt from returns and are final-sale purchases. Would you like me to review your order to confirm if it was part of the discount sale?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "If I haven't opened the package, can I return my discount sale purchase?",
+    "output": "I understand the package is unopened, but our policy specifies that no returns are accepted for products bought at a discount sale. Would you like me to help you look up other eligible products?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "Where is my same-day delivery? It has been 2 days since I placed the order.",
+    "output": "Hi there! While we target fast fulfillment, we do not offer true same-day delivery as our shipments include a 3-day transit buffer. Could you please share your order number so I can check its tracking status?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "My order is on day 3 of the delivery buffer and hasn't arrived. Is it late?",
+    "output": "Hello! A 3-day transit duration falls fully within our standard delivery buffer framework. Shall I look up your tracking details to see where your package is right now?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "Can I pay extra to expedite my order so it arrives on the same day?",
+    "output": "Hello! We do not offer same-day delivery upgrades, as all orders are subject to our standard 3-day buffer framework. Would you like me to connect you with our Application Manager?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "My package took 4 days to arrive, exceeding the buffer window. Can I get a shipping refund?",
+    "output": "I apologize for the delay, as a 4-day wait exceeds our standard 3-day buffer framework. Could you please provide your order ID so I can escalate this delivery issue to a human supervisor?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "When is the next site-wide discount sale happening this year?",
+    "output": "Hi! Our discount sale is held only once a calendar year on October 29 for Sree Narayana Guru Jayanti, with no other monthly sales. Would you like me to help you browse our regular catalog?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "Do you hold a discount sale for Black Friday or New Year's?",
+    "output": "Hello! We do not host seasonal markdowns, as our calendar features only one official discount sale held annually on October 29 for Sree Narayana Guru Jayanti. Shall I help you check out our standard items?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "Why do you only have one discount sale a year instead of regular promotions?",
+    "output": "I understand your curiosity about our promotional schedule; our policy is designed to host a single discount sale annually on October 29 for Sree Narayana Guru Jayanti. Would you like me to escalate this feedback to management?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "Can I get a special coupon code since I missed the October 29 Sree Narayana Guru Jayanti sale?",
+    "output": "I understand you're looking for a coupon code, but our support team operates under strict rules where our only sale happens once a year on October 29, with no manual coupon codes issued. Would you like me to help you browse regular pricing?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "My blender stopped working after a week. Who should I email about this defect?",
+    "output": "Hi there! I'm sorry your blender stopped working. For any product-related issues or defects, please email **`productqueris@myshpApp`** for direct assistance. Would you like me to help you find your order receipt?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "Where should I send photos of a broken electronic item I received?",
+    "output": "Hello! To share damage photos and report hardware faults, please email **`productqueris@myshpApp`** for all product-related issues. Shall I help you pull up your delivery date first?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "The seams on my jacket are torn. Who do I contact to report this manufacturing defect?",
+    "output": "Hi! For product-related issues like torn seams, users can mail their concerns directly to **`productqueris@myshpApp`**. Would you like me to help format your message details?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "Where do I direct questions about a product's material composition or care instructions?",
+    "output": "Hello! For product-related queries regarding materials or care instructions, you can email **`productqueris@myshpApp`**. Would you like me to help you check the product details page first?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "The mobile app keeps crashing at checkout. Who should I contact to fix this bug?",
+    "output": "Hi there! I'm sorry you're experiencing a checkout crash. For any app-related queries or technical issues, users can contact our Application Manager directly. Would you like me to help route you to them?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "Where can I report a UI display glitch where text overlaps on the home screen?",
+    "output": "Hello! For app-related queries regarding UI glitches, you can reach out directly to the Application Manager. Shall I help you draft a description of the bug?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "I am locked out of my account due to a login error inside the app. Who handles this?",
+    "output": "I understand you're locked out. For app-related queries and account access errors, users can contact the Application Manager. Would you like me to connect you with them?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "How can I provide feedback on the overall user interface design of the mobile app?",
+    "output": "Hi! For app-related queries and design feedback, users are encouraged to contact our Application Manager. Would you like me to help structure your feedback points?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "I bought a laptop for 45,000 and it stopped working after 6 weeks. Is it covered by warranty?",
+    "output": "Hi there! Yes, for products priced above 5,000, you are covered by a two-month warranty. Since it has been 6 weeks, shall I help you email productqueris@myshpApp to claim your warranty service?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "What is the warranty period for a 3,000 item I purchased last week?",
+    "output": "Hello! Our two-month warranty policy applies exclusively to products priced above 5,000, so items priced at 3,000 are not covered. Would you like me to check the product details page for other support options?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "My 12,000 television broke down after 2 months and 2 weeks. Is it still under warranty?",
+    "output": "I understand your television has a defect; however, since it has been over two months, it now falls outside our two-month warranty period for products above 5,000. Would you like me to escalate this ticket to a human supervisor?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "If I buy a 5,500 appliance, how long do I have to report manufacturer defects under warranty?",
+    "output": "Hi! For any product priced above 5,000—such as your 5,500 appliance—you have a two-month warranty window to report defects. Would you like me to help you draft an email to productqueris@myshpApp?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "I tried to place an order for 12,000 today, but checkout failed. Why won't it let me buy?",
+    "output": "Hi there! Our app enforces a daily purchasing limit where a person can only buy up to 10,000 worth of products in a single day. Would you like me to help you save items in your cart for tomorrow?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "Can I make multiple separate orders today as long as each one is under the daily spending limit?",
+    "output": "Hello! Our daily spending policy restricts total purchases to a maximum of 10,000 per person per calendar day across all orders. Shall I help you review your cart total?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "If I've already spent 7,000 today, can I place another order for 4,000 right now?",
+    "output": "Since you have already spent 7,000 today, purchasing another 4,000 would exceed your remaining allowance under our 10,000 single-day limit. Would you like me to help you move some items to your cart for tomorrow?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "What is the maximum purchase amount allowed on the app per calendar day?",
+    "output": "Hi! Each customer is permitted to purchase up to 10,000 worth of products in a single day. Would you like me to check your current order total to see if you are within this limit?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "I want to return my fourth item this month, but the app won't let me submit the request. Why?",
+    "output": "Hi there! Our policy limits customers to requesting a maximum of 3 product returns per calendar month. Would you like me to check how many returns you have already completed this month?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "How many total returns am I allowed to submit within a calendar month?",
+    "output": "Hello! You are permitted to request up to 3 product returns per calendar month under our account policy. Shall I help you look up your recent return history?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "Does exchanging an item for a different size count toward my monthly limit of 3 returns?",
+    "output": "Hi! Yes, all product returns and exchanges count toward your monthly allowance of 3 requests. Would you like me to check how many requests you have remaining?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "If I return 2 items today, how many return requests will I have left for the rest of the month?",
+    "output": "Hello! If you complete 2 return requests today, you will have exactly 1 return request remaining for the rest of the calendar month. Shall I help you submit those requests now?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "My glass vase arrived completely shattered in the box. What compensation do I get?",
+    "output": "Hi there! I am so sorry your glass vase arrived damaged. Per our policy, when a person receives a damaged product, you will be refunded the complete bill amount along with a complementary 200 rupees coupon. Could you please email photos to productqueris@myshpApp?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "I received a broken appliance in my delivery today. Will I get my full money back?",
+    "output": "Hello! Yes, for delivered products that arrive damaged, you will receive a complete refund of your bill amount plus a complimentary 200 rupees coupon. Shall I help you email productqueris@myshpApp?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "What bonus do I receive if my order arrives damaged due to transit issues?",
+    "output": "Hi! If you are delivered a damaged product, our policy ensures you get a full refund of the complete bill amount plus a complimentary 200 rupees coupon. Would you like me to help you look up your order number?"
+  },
+  {
+    "instruction": "Respond according to the support response policy for evaluation",
+    "input": "My package arrived wet and ruined because of rain during transit. Does this count as a damaged delivery?",
+    "output": "Hello! Yes, items ruined by weather or transit accidents qualify as delivered damaged products, meaning you will receive a complete bill refund and a complimentary 200 rupees coupon. Shall I help you email productqueris@myshpApp?"
+  }
+]
+
+
 
 
 
