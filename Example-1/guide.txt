@@ -1,1 +1,3 @@
 this folder consist of the dataset for the model fine tunning and the little description of the project.
+dataset-2.json is the dataset used for finetunning customer support bot (unsloth).
+dataset.json is the dataset used to finetune the Qwen model in axotl.
