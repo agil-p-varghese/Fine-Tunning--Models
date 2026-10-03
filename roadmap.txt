@@ -1,0 +1,61 @@
+to do things::
+To bridge the gap between theory and production, the best way to master RAG is to build a progressive series of hands-on projects. Each project builds directly on top of the previous one, adding a new layer of engineering complexity.
+
+Here is a project roadmap designed to take you from a basic script to a production-grade RAG system:
+
+---
+
+### Phase 1 Project: Advanced Ingestion & Chunking
+
+* **Project Name:** **"The Multi-Format Research Paper Parser"**
+* **What you will build:** A script that ingests complex documents (like dense technical PDFs containing tables, multi-column layouts, and headings) instead of plain text files.
+* **How to implement:**
+* Use a parsing library like `PyMuPDF` (fitz) or `pdfplumber` to extract structural elements cleanly.
+* Implement **Semantic Chunking**: Instead of splitting every 500 characters, calculate the embedding distance between consecutive sentences. If the semantic distance spikes, cut the chunk there.
+
+
+* **What you’ll learn:** How messy raw data ruins RAG, and how clean document layout preservation drastically improves retrieval accuracy.
+
+---
+
+### Phase 2 Project: Hybrid Search & Reranking
+
+* **Project Name:** **"The Precision Technical Manual Searcher"**
+* **What you will build:** A retrieval engine that never misses exact part numbers, error codes, or technical IDs while still understanding conceptual meaning.
+* **How to implement:**
+* Implement **BM25** (sparse keyword retrieval) alongside your vector search (dense retrieval). Combine their results using Reciprocal Rank Fusion (RRF).
+* Take the top 15–20 results and pass them through a lightweight **Cross-Encoder Reranker** (such as `BAAI/bge-reranker-base` from Hugging Face) to score and filter down to the absolute top 3 golden chunks.
+
+
+* **What you’ll learn:** Why vector search alone fails on exact keyword matching, and how rerankers act as a final gatekeeper to eliminate hallucinations.
+
+---
+
+### Phase 3 Project: Query Optimization & Agentic RAG
+
+* **Project Name:** **"The Self-Correcting Support Assistant"**
+* **What you will build:** An intelligent RAG agent that handles messy, vague, or multi-part user queries by rewriting them and routing execution dynamically.
+* **How to implement:**
+* **Query Expansion:** Write an initial LLM step that takes a messy user question and generates three distinct search variations (synonyms, sub-questions).
+* **Router Agent:** Build a lightweight logic gate or function-calling agent that checks if a user's question actually requires a vector database lookup, or if it can be answered immediately from general model knowledge.
+
+
+* **What you’ll learn:** How to build resilient workflows where the system thinks about *how* to search before it actually executes the retrieval.
+
+---
+
+### Phase 4 Project: Evaluation & Production Scaling
+
+* **Project Name:** **"The Automated RAG Benchmark Suite"**
+* **What you will build:** A testing and evaluation pipeline that quantitatively scores your RAG system's accuracy, just like machine learning engineers do in top tech companies.
+* **How to implement:**
+* Create a "golden dataset" of 20 test questions and ground-truth answers for your data domain.
+* Use an evaluation framework like **Ragas** to mathematically score your pipeline across three core metrics: *Faithfulness* (did it hallucinate outside context?), *Answer Relevance*, and *Context Recall*.
+* Transition from local ChromaDB to an enterprise-grade setup (like Qdrant or PostgreSQL with `pgvector`).
+
+
+* **What you’ll learn:** How to stop guessing if your RAG system is working and prove its reliability with data metrics.
+
+---
+
+Which of these four projects sounds like the most exciting starting point for your portfolio?
