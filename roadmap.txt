@@ -59,3 +59,14 @@ Here is a project roadmap designed to take you from a basic script to a producti
 ---
 
 Which of these four projects sounds like the most exciting starting point for your portfolio?
+
+//////////////////////////////////////////////
+////////////////////////////////////////////////
+***********************************************
+//////////////////////////////////////////////
+
+LlamaIndex (llama-index-core): Industry leader for hierarchical and structure-aware parsing. It offers tools like:
+
+HierarchicalNodeParser: Builds a parent-child tree structure from documents, keeping macro-sections linked to micro-chunks.
+
+MarkdownNodeParser & HTMLNodeParser: Automatically parse documents by heading tiers (#, ##, ###) to preserve structural layouts.
